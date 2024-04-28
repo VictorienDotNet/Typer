@@ -1,1 +1,1 @@
-export { useFormStore, useFormValue } from "./store";
+export { useFormStore, useFormValue } from "./store.ts";
