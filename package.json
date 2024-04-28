@@ -1,0 +1,28 @@
+{
+  "name": "typer",
+  "version": "1.0.0",
+  "description": "A Form solution for Framer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VictorienDotNet/Typer.git"
+  },
+  "keywords": [
+    "React",
+    "Form",
+    "Framer"
+  ],
+  "author": "Victorien",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/VictorienDotNet/Typer/issues"
+  },
+  "homepage": "https://github.com/VictorienDotNet/Typer#readme",
+  "dependencies": {
+    "framer": "^2.4.1",
+    "react": "^18.3.1"
+  }
+}
