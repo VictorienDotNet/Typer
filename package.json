@@ -2,7 +2,7 @@
   "name": "typer",
   "version": "1.0.0",
   "description": "A Form solution for Framer",
-  "main": "index.js",
+  "main": "src/index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -20,9 +20,5 @@
   "bugs": {
     "url": "https://github.com/VictorienDotNet/Typer/issues"
   },
-  "homepage": "https://github.com/VictorienDotNet/Typer#readme",
-  "dependencies": {
-    "framer": "^2.4.1",
-    "react": "^18.3.1"
-  }
+  "homepage": "https://github.com/VictorienDotNet/Typer#readme"
 }
